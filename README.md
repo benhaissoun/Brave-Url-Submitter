@@ -1,4 +1,4 @@
-# Brave URL Submitter
+# Brave URL Submitter + Chrome extension
 
 A Manifest V3 browser extension for **Brave** (and other Chromium browsers) that bulk-submits URLs to the [Brave Search submit-URL form](https://search.brave.com/submit-url). Import a list of URLs, set a delay, and let it work through the queue for you.
 
